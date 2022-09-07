@@ -23,7 +23,7 @@ for my Master's. I mainly worked on
 and [Skate 4](https://twitter.com/skateea).
 
 ### Education
-* M.Sc. in Statistics, University of British Columbia, 2021-2023 (expected)
+* M.Sc. in Biostatistics, University of British Columbia, 2021-2023 (expected)
 * B.Sc. in Statistics, University of British Columbia, 2015-2019
 
 ### Updates
