@@ -19,8 +19,11 @@ predictive modeling.
 
 Prior to that, I was working as a business analyst at Electronic Arts before coming back
 for my Master's. I mainly worked on
-[Plants vs. Zombies: Battle for Neighborville](https://www.mobygames.com/game/plants-vs-zombies-battle-for-neighborville):zombie::sunflower:
-and [Skate 4](https://twitter.com/skateea):skateboard:.
+[Plants vs. Zombies: Battle for Neighborville](https://www.mobygames.com/game/plants-vs-zombies-battle-for-neighborville) :sunflower:
+and [Skate 4](https://twitter.com/skateea).
+
+:skateboard:
+
 ### Education
 * M.Sc. in Statistics, University of British Columbia, 2021-2023 (expected)
 * B.Sc. in Statistics, University of British Columbia, 2015-2019
