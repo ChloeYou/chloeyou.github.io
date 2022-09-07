@@ -25,3 +25,9 @@ and [Skate 4](https://twitter.com/skateea).
 ### Education
 * M.Sc. in Statistics, University of British Columbia, 2021-2023 (expected)
 * B.Sc. in Statistics, University of British Columbia, 2015-2019
+
+### Updates
+
+I am currently one of the co-organizers for the 2022/2023 
+[UBC-SFU Joint Statistics Seminar](https://ubc-stat-grad.github.io/ubc-sfu). 
+If you're interested in getting involved, please don't hesitate to reach out.
