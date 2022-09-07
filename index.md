@@ -19,7 +19,7 @@ predictive modeling.
 
 Prior to that, I was working as a business analyst at Electronic Arts before coming back
 for my Master's. I mainly worked on
-[Plants vs. Zombies: Battle for Neighborville](https://www.mobygames.com/game/plants-vs-zombies-battle-for-neighborville) :sunflower:
+[Plants vs. Zombies: Battle for Neighborville](https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-battle-for-neighborville) :sunflower:
 and [Skate 4](https://twitter.com/skateea).
 
 ### Education
