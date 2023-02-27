@@ -15,7 +15,7 @@ In my spare time, I enjoy snowboarding, yoga, and bothering my houseplants.
 
 During the summer of 2022, I had the privilege of working as a Statistical Software Developer alongside [Prof Daniel J. McDonald](https://www.stat.ubc.ca/users/daniel-j-mcdonald) and the [DELPHI](https://delphi.cmu.edu/) team. Together, we built an [R package](https://cmu-delphi.github.io/epipredict/index.html) for epidemiological predictive modeling (fingers crossed that I wrote enough unit tests to cover all edge cases!)
 
-Before pursuing my Master's degree, I had the opportunity to work as a Business Analyst at Electronic Arts, a leading video game company. During my time there, I mainly worked on [Plants vs. Zombies: Battle for Neighborville](https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-battle-for-neighborville) :sunflower:
+Before pursuing my Master's degree, I had the opportunity to work as a Business Analyst at Electronic Arts. During my time there, I mainly worked on [Plants vs. Zombies: Battle for Neighborville](https://www.ea.com/games/plants-vs-zombies/plants-vs-zombies-battle-for-neighborville) :sunflower:
 and [Skate 4](https://www.ea.com/games/skate).
 
 As a Business Analyst, my primary responsibility was to gather and analyze data related to the games' performance and make recommendations to improve the player experience. This involved working closely with various teams within the company, including developers, designers, and project managers, to ensure that we were meeting our goals and delivering the best possible gaming experience to our players. 
